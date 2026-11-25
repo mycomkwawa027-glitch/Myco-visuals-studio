@@ -1,24 +1,19 @@
+
 {
   "expo": {
-    "name": "quiet-yellow-yogurt",
-    "slug": "snack-57bb5929-f561-49f2-a6e3-cb4b766b684c",
+    "name": "MYCO VISUALS STUDIO",
+    "slug": "myco-visuals-studio",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
-    "ios": {
-      "supportsTablet": true
-    },
+    "userInterfaceStyle": "dark",
     "android": {
+      "package": "com.mycotz.mycovisualsstudio",
+      "versionCode": 1,
       "adaptiveIcon": {
-        "backgroundColor": "#E6F4FE",
-        "foregroundImage": "./assets/android-icon-foreground.png",
-        "backgroundImage": "./assets/android-icon-background.png",
-        "monochromeImage": "./assets/android-icon-monochrome.png"
+        "backgroundColor": "#000000",
+        "foregroundImage": "./assets/android-icon-foreground.png"
       }
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
     }
   }
 }
